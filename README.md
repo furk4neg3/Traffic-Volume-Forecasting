@@ -1,3 +1,4 @@
+# Explanation of Project:
 Project that I created while my internship in Ministry of Transportation and Infrastructure, Turkiye. Things that I'm about to tell are done in Colab notebooks, and for legal requirements, I can't share these notebooks. 
 
 In the beginning, data I received had so many issues. I cleaned the data, then done some feature engineering on it. After that, I added things to data (the most important things which are lat_bin, lon_bin and count are added by me, they were not in the data). 
