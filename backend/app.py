@@ -12,9 +12,6 @@ def process_input():
 
     day_value = input_data.get('day')
     hour_value = input_data.get('hour')
-
-    if day_value is None:
-        return jsonify({'error': 'No input provided'}), 400
     
     day_value = int(day_value)
     hour_value = int(hour_value)
